@@ -1,0 +1,14 @@
+data/
+final_outputs/
+preds/
+simple_buildings/
+four_panel_outputs/
+color_fixed/
+color_coded_changes/
+four_panel_outputs/
+*.pt
+*.pth
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
